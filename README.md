@@ -1,5 +1,6 @@
 ## I'm Philip Greene. 
-- Technical Consultant @ [Sparta Global](https://www.spartaglobal.com/) -> Trained C# SDET & [ISTQB Certified Tester](https://skillshub.isqi.org/67kbexja)
+- QA Technical Analyst @ [Rail Delivery Group](https://www.raildeliverygroup.com/)
+- Trained C# SDET & [ISTQB Certified Tester](https://skillshub.isqi.org/67kbexja)
 - Graduate from [Kingston University London](https://www.kingston.ac.uk/)
   - Game Development (Programming) MSc
   - Computer Science (Games Programming) BSc(Hons)
