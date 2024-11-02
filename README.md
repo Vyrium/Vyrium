@@ -1,6 +1,6 @@
-## I'm Philip Greene. 
-- QA Technical Analyst @ [Rail Delivery Group](https://www.raildeliverygroup.com/)
-- Trained C# SDET & [ISTQB Certified Tester](https://skillshub.isqi.org/67kbexja)
+## I'm Philip Greene.
+- C# SDET Level 2 @ Derivco Isle of Man
+- [ISTQB Certified Tester](https://skillshub.isqi.org/67kbexja)
 - Graduate from [Kingston University London](https://www.kingston.ac.uk/)
   - Game Development (Programming) MSc -> Distinction
   - Computer Science (Games Programming) BSc(Hons) -> First Class
